@@ -1,7 +1,7 @@
 # ToDO_Application_using_FLASK
 
 
-This is  a TO-do app using Flask 
+This is  a TO-DO's app using Flask 
 
 
 Screenshot 1:
